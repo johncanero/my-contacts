@@ -4,13 +4,13 @@ const Contacts = () => {
 const Card = (props) => {
     return <div className="card"> 
         <div className="top">
-            <h2 className="colorText">{props.name}</h2>
-            <img className="cardImage" src={props.src} alt="avatar_img"/>
+            <h2 className="name">{props.name}</h2>
+            <img className="circle-img" src={props.src} alt="avatar_img"/>
         </div>
 
         <div className="bottom">
-            <p>{props.contact}</p>
-            <p>{props.email}</p>
+            <p className="info">{props.contact}</p>
+            <p className="info">{props.email}</p>
         </div>
     </div>
     }
