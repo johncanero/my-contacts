@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <div>
-        <h1>My Contacts</h1>
+        <h1 className="colorText2">My Contacts</h1>
     </div>
   )
 }
