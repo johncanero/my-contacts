@@ -7,21 +7,21 @@ const Contacts = () => {
     
   
 const Card = (props) => {
-return <div className="card"> 
-    <div className="top">
-        <p>{props.id}</p>
-        <h2 className="name">{props.name}</h2>
-        <img className="circle-img" src={props.src} alt="avatar_img"/>
-    </div>
+    return <div className="card"> 
+        <div className="top">
+            <p>{props.id}</p>
+            <h2 className="name">{props.name}</h2>
+            <img className="circle-img" src={props.src} alt="avatar_img"/>
+        </div>
 
-    <div className="bottom">
-        <Detail detailInfo={props.contact} />
-        <Detail detailInfo={props.email} />
+        <div className="bottom">
+            <Detail detailInfo={props.contact} />
+            <Detail detailInfo={props.email} />
+        </div>
     </div>
-</div>
 }
 
-
+// Map Function
 const createCard = (contact) => {
     return <Card 
         id={contact.id}
@@ -37,14 +37,13 @@ const createCard = (contact) => {
     <div className="cardPadding">
 
 
-    {/* Map Function 
-        */}
-    {contacts.map(createCard)}
+        {/* Map Function */}
+        {contacts.map(createCard)}
 
 
 
 
-
+        {/* (SECOND METHOD) */}
         {/* <Card 
             name={ContactList[0].name}
             src={ContactList[0].src}
@@ -69,7 +68,8 @@ const createCard = (contact) => {
 
 
 
-
+        
+        {/* (FIRST METHOD) */}
         {/* <Card 
             name="Lionel Messi" 
             src="https://cdn.britannica.com/34/212134-050-A7289400/Lionel-Messi-2018.jpg" 
