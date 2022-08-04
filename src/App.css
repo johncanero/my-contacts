@@ -49,12 +49,22 @@ body {
   margin: 30px 20px 0 0;
 }
 
+
 .circle-img {
   border-radius: 20%;
   border: 4px solid #ffffff86;
   width: 9em;
   height: 10em;
 }
+
+
+.circle-img2 {
+  border-radius: 50%;
+  border: 5px solid #fff;
+  width: 10em;
+  height: 10em;
+}
+
 
 
 /* Bottom */

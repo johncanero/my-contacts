@@ -1,3 +1,6 @@
+import Detail from "./Detail"
+
+
 const Contacts = () => {
     
   
@@ -9,8 +12,8 @@ const Card = (props) => {
         </div>
 
         <div className="bottom">
-            <p className="info">{props.contact}</p>
-            <p className="info">{props.email}</p>
+            <Detail detailInfo={props.contact} />
+            <Detail detailInfo={props.email} />
         </div>
     </div>
     }
