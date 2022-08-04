@@ -10,8 +10,9 @@ body {
 
 .heading {
   text-align: center;
-  font-size: 1em;
-  color: #0023b0;
+  font-size: 1.2em;
+  color: #0bebffea;
+  text-shadow: 1px 4px 1px #7c02ff97;
   margin: 20px 0 30px;
 }
 
@@ -30,7 +31,7 @@ body {
   border-radius: 25px 25px 0 0;
   height: 100px;
   width: 100%;
-  background-color: #0023b0;
+  background-color: #0bebffea;
   position: absolute;
   top: 0;
   left: 0;
@@ -39,7 +40,7 @@ body {
 
 .name {
   font-size: 1.5em;
-  color: #ffffff86;
+  color: #7c02ff97;
   display: flex;
   flex: 1;
   margin: 1.4em 20px 0;
@@ -74,7 +75,7 @@ body {
 
 .info {
   margin: 15px 0;
-  color: #0023b0;
+  color: #2e005f97;
 }
 
 

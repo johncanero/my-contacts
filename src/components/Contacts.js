@@ -9,7 +9,7 @@ const Contacts = () => {
     const Card = (props) => {
         return <div className="card"> 
             <div className="top">
-                <p>{props.id}</p>
+                {/* <p>{props.id}</p> */}
                 <h2 className="name">{props.name}</h2>
                 <img className="circle-img" src={props.src} alt="avatar_img"/>
             </div>
@@ -24,7 +24,7 @@ const Contacts = () => {
     // Map Function
     const createCard = (contact) => {
         return <Card 
-            id={contact.id}
+            // id={contact.id}
             name={contact.name}
             src={contact.src}
             contact={contact.contact}
