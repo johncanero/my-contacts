@@ -1,5 +1,4 @@
 import Detail from "./Detail"
-import ContactList from '../ContactList'
 import contacts from "../ContactList"
 
 
