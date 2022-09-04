@@ -37,7 +37,7 @@ My Contacts Project - Udemy - Web Development Bootcamp 2022
 
 🪟: [Desktop - Tablet - Mobile]
 
-![Desktop View - React Website](./src/images/responsive/desktopView.jpg)
-![Tablet View - React Website](./src/images/responsive/tabletView.jpg)
-![Mobile View - React Website](./src/images/responsive/mobileView.jpg)
-![Code View - React Website](./src/images/responsive/codeView.jpg)
+![Desktop View - My Contacts](./src/images/responsive/desktopView.png)
+![Tablet View - My Contacts](./src/images/responsive/tabletView.png)
+![Mobile View - My Contacts](./src/images/responsive/mobileView.png)
+![Code View - My Contacts](./src/images/responsive/codeView.png)
