@@ -20,10 +20,10 @@ body {
   border-radius: 25px;
   position: relative;
   padding: 25px 15px;
-  background-color: #dedede;
+  background-color: #ffffff;
   margin: 50px 0;
   height: 200px;
-    box-shadow: 0 2px 0 #ad42ff, 0 5px 20px #2aedffea;
+    box-shadow: 0 2px 0 #ad42ff, 0 5px 5px #2aedffea;
   text-align: left;
 }
 

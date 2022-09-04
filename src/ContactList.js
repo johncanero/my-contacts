@@ -11,7 +11,7 @@ const contacts = [
       name: "Cristiano Ronaldo",
       src: "https://static.independent.co.uk/2021/09/24/22/0c8825065042ef65514483e5a5856d25Y29udGVudHNlYXJjaGFwaSwxNjMyNTgxOTQ4-2.62342572.jpg?width=1200",
       contact: "+123 456 789", 
-      email: "c@ronaldo.com" 
+      email: "cristiano@ronaldo.com" 
     },
     {
       id: 3,
