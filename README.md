@@ -20,9 +20,7 @@
 This is the My Contacts Project by Udemy - Web Development Bootcamp 2022
 
 It is made with React JS utilizing the Props Feature. My Contacts: Lionel Messi, 
-Cristiano Ronaldo and Ronaldhino
-
-My Contacts Project - Udemy - Web Development Bootcamp 2022
+Cristiano Ronaldo and Ronaldhino. 
 </div>
 
 ## Website
