@@ -8,7 +8,7 @@
 } -->
 
 <div align="center">
-  <a href="https://steady-entremet-c7272f.netlify.app/" target="_blank">
+  <a href="https://my-contacts-by-johncanero.vercel.app/" target="_blank">
     <img alt="my-contacts" height="100" src="./src/images/responsive/phoneIcon.png"/>
   </a>
 </div>
@@ -26,7 +26,7 @@ My Contacts: Lionel Messi, Cristiano Ronaldo and Ronaldhino.
 
 ## Website
 
-🖥️ [https://steady-entremet-c7272f.netlify.app/]
+🖥️ [https://my-contacts-by-johncanero.vercel.app/]
 
 ✍️ Project by John Cañero
 
