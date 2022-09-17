@@ -4,7 +4,10 @@ body {
   padding: 25px;
   max-width: 400px;
   min-width: 400px;
-  background-color: #ffffff;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(9, 79, 95, 0.5) ), url('../public/footballBackground.jpg');
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
   text-align: center;
 }
 
